@@ -9,6 +9,7 @@ body{
     max-width: 1180px;
     padding: 0 10px;
     margin: 0 auto;
+    box-sizing: border-box;
 }
 
 h1.logo{
@@ -218,7 +219,7 @@ footer a{
         height:40px;
         width:100%;
         background: url('images/menu.png')no-repeat 130% center;
-        background-color: lightblue;
+        background-color: lightgray;
         cursor: pointer;
     }
     header .wrapper {
